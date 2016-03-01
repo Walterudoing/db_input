@@ -1,0 +1,13 @@
+{
+  "name": "data-builder",
+  "description": "000",
+  "version": "0.0.1"
+
+  ,"dependencies": {
+    "co": "*"
+    ,"lodash": "*"
+  },
+  "engines": {
+    "node": "^0.12"
+  }
+}
